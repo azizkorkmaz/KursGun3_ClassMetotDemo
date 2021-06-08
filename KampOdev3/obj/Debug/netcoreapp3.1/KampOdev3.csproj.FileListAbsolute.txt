@@ -11,3 +11,16 @@ D:\Çalışmalar\CSharp_Kamp\Gun3\Odev3\KampOdev3\KampOdev3\obj\Debug\netcoreapp
 D:\Çalışmalar\CSharp_Kamp\Gun3\Odev3\KampOdev3\KampOdev3\obj\Debug\netcoreapp3.1\KampOdev3.dll
 D:\Çalışmalar\CSharp_Kamp\Gun3\Odev3\KampOdev3\KampOdev3\obj\Debug\netcoreapp3.1\KampOdev3.pdb
 D:\Çalışmalar\CSharp_Kamp\Gun3\Odev3\KampOdev3\KampOdev3\obj\Debug\netcoreapp3.1\KampOdev3.genruntimeconfig.cache
+D:\Çalışmalar\CSharp_Kamp\Gun3\Odev3\KampOdev3\bin\Debug\netcoreapp3.1\KampOdev3.exe
+D:\Çalışmalar\CSharp_Kamp\Gun3\Odev3\KampOdev3\bin\Debug\netcoreapp3.1\KampOdev3.deps.json
+D:\Çalışmalar\CSharp_Kamp\Gun3\Odev3\KampOdev3\bin\Debug\netcoreapp3.1\KampOdev3.runtimeconfig.json
+D:\Çalışmalar\CSharp_Kamp\Gun3\Odev3\KampOdev3\bin\Debug\netcoreapp3.1\KampOdev3.runtimeconfig.dev.json
+D:\Çalışmalar\CSharp_Kamp\Gun3\Odev3\KampOdev3\bin\Debug\netcoreapp3.1\KampOdev3.dll
+D:\Çalışmalar\CSharp_Kamp\Gun3\Odev3\KampOdev3\bin\Debug\netcoreapp3.1\KampOdev3.pdb
+D:\Çalışmalar\CSharp_Kamp\Gun3\Odev3\KampOdev3\obj\Debug\netcoreapp3.1\KampOdev3.csprojAssemblyReference.cache
+D:\Çalışmalar\CSharp_Kamp\Gun3\Odev3\KampOdev3\obj\Debug\netcoreapp3.1\KampOdev3.AssemblyInfoInputs.cache
+D:\Çalışmalar\CSharp_Kamp\Gun3\Odev3\KampOdev3\obj\Debug\netcoreapp3.1\KampOdev3.AssemblyInfo.cs
+D:\Çalışmalar\CSharp_Kamp\Gun3\Odev3\KampOdev3\obj\Debug\netcoreapp3.1\KampOdev3.csproj.CoreCompileInputs.cache
+D:\Çalışmalar\CSharp_Kamp\Gun3\Odev3\KampOdev3\obj\Debug\netcoreapp3.1\KampOdev3.dll
+D:\Çalışmalar\CSharp_Kamp\Gun3\Odev3\KampOdev3\obj\Debug\netcoreapp3.1\KampOdev3.pdb
+D:\Çalışmalar\CSharp_Kamp\Gun3\Odev3\KampOdev3\obj\Debug\netcoreapp3.1\KampOdev3.genruntimeconfig.cache
